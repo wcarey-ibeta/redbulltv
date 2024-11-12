@@ -10,7 +10,7 @@ Perform initial application launch.
 ```
 The application should be functional upon initial launch.
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/install_and_launch/rbtv_splashscreen.png)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/install/rbtv_splashscreen.png)
 ```
 
 Step 2:
