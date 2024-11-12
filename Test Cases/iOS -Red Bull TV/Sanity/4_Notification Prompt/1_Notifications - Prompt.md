@@ -15,5 +15,5 @@ Step 1:
 The Notification prompt is displayed and states the app's request to send notifications.
 - Before the Home Screen
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/braze/rbtv_notificationprompt.png)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/braze/rbtv_notificationprompt.jpeg)
 ```
