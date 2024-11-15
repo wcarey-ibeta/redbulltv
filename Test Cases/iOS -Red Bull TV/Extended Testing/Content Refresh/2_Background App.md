@@ -18,8 +18,8 @@ https://wcarey-ibeta.github.io/redbulltv/images/ios/contentrefresh/contentrefres
 Step 1:
 ```
 # Verify page refresh on background/foreground
-1. Background the app
-2. Foreground the app
+1. Background `<application>`
+2. Foreground `<application>`
 ```
 ```
 The home page will refresh with with the updated collection
