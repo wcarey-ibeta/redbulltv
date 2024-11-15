@@ -22,7 +22,8 @@ Step 1:
 2. Foreground `<application>`
 ```
 ```
-The home page will refresh with with the updated collection
+The home page will refresh with the updated collection
+- A spinner will display on page refresh
 
 ![](https://wcarey-ibeta.github.io/redbulltv/images/ios/contentrefresh/backgroundapp.gif)
 ```
