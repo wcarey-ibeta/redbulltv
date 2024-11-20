@@ -13,5 +13,5 @@ Step 1:
 ```
 User is navigated to the "Privacy Settings" page.
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_privacysettings.jpeg)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_privacysettings.png)
 ```

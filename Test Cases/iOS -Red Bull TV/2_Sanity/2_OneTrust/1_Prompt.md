@@ -15,7 +15,7 @@ Step 1:
 - Before ATT Prompt
 - Before Home Page
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_consentprompt.jpeg)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_consentprompt.png)
 ```
 
 Step 2:

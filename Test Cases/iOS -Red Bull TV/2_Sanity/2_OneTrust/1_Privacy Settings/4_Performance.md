@@ -25,7 +25,7 @@ Select the "Performance" option label
 ```
 The user should be navigated to the Performance page
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_performance_page.jpeg)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_performance_page.png)
 ```
 
 Step 3:

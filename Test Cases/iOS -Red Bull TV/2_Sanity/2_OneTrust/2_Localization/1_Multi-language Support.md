@@ -28,7 +28,7 @@ Step 1:
 ```
 All Title, Copy and Button labels are localized in all supported Device Languages.
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_consentprompt_portuguese.jpeg)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_consentprompt_portuguese.png)
 Example: pt-BR (Portuguese, Brazil)
 ```
 
@@ -41,6 +41,6 @@ Step 2:
 ```
 All Title, Copy and Button labels are localized in all supported Device Languages.
 
-![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_privacysettings_portuguese.jpeg)
+![](https://wcarey-ibeta.github.io/redbulltv/images/ios/onetrust/rbtv_privacysettings_portuguese.png)
 Example: pt-BR (Portuguese, Brazil)
 ```
