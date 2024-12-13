@@ -4,6 +4,7 @@
 "redbulltv://calendar";"rbtv_deeplink_page_calendar"
 "redbulltv://live-events";"rbtv_deeplink_page_live-events"
 "redbulltv://tv";"rbtv_deeplink_page_tv"
+"redbulltv://channels";"rbtv_deeplink_page_channels"
 "redbulltv://account";"rbtv_deeplink_page_account"
 "redbulltv://search";"rbtv_deeplink_page_search"
 "servustv://discover";"stv_deeplink_page_discover"
