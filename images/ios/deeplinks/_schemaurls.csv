@@ -1,4 +1,13 @@
 "SCHEMA URL";"file Name"
+
+#RBTV
+# film - The Longest Wave
+"redbulltv://film/page:rrn:content:films:1bdbfbc3-77cf-43dc-9a55-0a0311dabf8e";"rbtv_deeplink_film_page"
+"redbulltv://film/rrn:content:films:1bdbfbc3-77cf-43dc-9a55-0a0311dabf8e";"rbtv_deeplink_film_video"
+"redbulltv://video/rrn:content:films:1bdbfbc3-77cf-43dc-9a55-0a0311dabf8e";"rbtv_deeplink_film_video"
+"redbulltv://video/rrn:content:trailer-videos:a86c71fc-f7ee-44e1-9990-225261545f7f";"rbtv_deeplink_film_trailer"
+
+# System Pages
 "redbulltv://discover";"rbtv_deeplink_page_discover"
 "redbulltv://home";"rbtv_deeplink_page_home"
 "redbulltv://calendar";"rbtv_deeplink_page_calendar"
@@ -7,6 +16,9 @@
 "redbulltv://channels";"rbtv_deeplink_page_channels"
 "redbulltv://account";"rbtv_deeplink_page_account"
 "redbulltv://search";"rbtv_deeplink_page_search"
+
+#ServusTV
+# System Pages
 "servustv://discover";"stv_deeplink_page_discover"
 "servustv://startseite";"stv_deeplink_page_startseite"
 "servustv://sport";"stv_deeplink_page_sport"
