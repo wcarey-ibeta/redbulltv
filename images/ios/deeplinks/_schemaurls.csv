@@ -1,13 +1,24 @@
 "SCHEMA URL";"file Name"
 
-#RBTV
+# RBTV
 # film - The Longest Wave
 "redbulltv://film/page:rrn:content:films:1bdbfbc3-77cf-43dc-9a55-0a0311dabf8e";"rbtv_deeplink_film_page"
 "redbulltv://film/rrn:content:films:1bdbfbc3-77cf-43dc-9a55-0a0311dabf8e";"rbtv_deeplink_film_video"
 "redbulltv://video/rrn:content:films:1bdbfbc3-77cf-43dc-9a55-0a0311dabf8e";"rbtv_deeplink_film_video"
 "redbulltv://video/rrn:content:trailer-videos:a86c71fc-f7ee-44e1-9990-225261545f7f";"rbtv_deeplink_film_trailer"
 
-# System Pages
+# show - Life of Kai
+"redbulltv://show/rrn:content:shows:a63765eb-2299-46d2-89f3-fd60bb007f0a";"rbtv_deeplink_show_page"
+"redbulltv://video/rrn:content:episode-videos:4264624f-3dd3-4aec-ab7c-232690e2fee7";"rbtv_deeplink_show_video"
+"redbulltv://video/rrn:content:trailer-videos:279d2cf1-4b82-4bfe-ac7d-224d970c8da2";"rbtv_deeplink_show_trailer"
+
+# event - Red Bull Rampage
+"redbulltv://event/rrn:content:event-series:e2cca4ef-e636-5f39-a1ff-1443ea63d3ad";"rbtv_deeplink_event_series"
+"redbulltv://event/rrn:content:event-profiles:ddd1e4ee-125d-4f7e-96e9-aca3ce3ddb98";"rbtv_deeplink_event_stop"
+"redbulltv://video/rrn:content:live-videos:427ffa0c-92c6-42f8-842c-51c4738d0355";"rbtv_deeplink_event_live"
+"redbulltv://video/rrn:content:videos:ae5391db-afb4-414f-9ef1-88b1eaf177a9";"rbtv_deeplink_event_clip"
+
+# System Page
 "redbulltv://discover";"rbtv_deeplink_page_discover"
 "redbulltv://home";"rbtv_deeplink_page_home"
 "redbulltv://calendar";"rbtv_deeplink_page_calendar"
@@ -18,7 +29,21 @@
 "redbulltv://search";"rbtv_deeplink_page_search"
 
 #ServusTV
-# System Pages
+# Film - Trost und Rath
+"servustv://film/page:AAHZMQL90ZH5R9BM5V4B";"stv_deeplink_film_page"
+"servustv://film/AA6FWNS13AQTL7J9KMRQ";"stv_deeplink_film_video"
+"servustv://video/AA6FWNS13AQTL7J9KMRQ";"stv_deeplink_film_video"
+
+# Show - Meiberger
+"servustv://show/AA-1WTKXBXJN1W11";"stv_deeplink_show_page"
+"servustv://video/AA-24BTA1MM51W12";"stv_deeplink_show_video"
+
+# Ski Classics (Expires 12/21)
+"servustv://event/AA681PQHC6USSSQ8F3ZT";"stv_deeplink_event_series"
+"servustv://event/AAI4F8SF2YE69C1JB0CE";"stv_deeplink_event_stop"
+"servustv://video/AASXXSHCJ540IKTTC4SJ";"stv_deeplink_event_live"
+
+# System Page
 "servustv://discover";"stv_deeplink_page_discover"
 "servustv://startseite";"stv_deeplink_page_startseite"
 "servustv://sport";"stv_deeplink_page_sport"
