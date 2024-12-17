@@ -48,6 +48,8 @@
 "servustv://startseite";"stv_deeplink_page_startseite"
 "servustv://sport";"stv_deeplink_page_sport"
 "servustv://live-events";"stv_deeplink_page_live-events"
+"servustv://sendugen";"stv_deeplink_page_sendugen"
+"servustv://mediathek";"stv_deeplink_page_mediathek"
 "servustv://tv";"stv_deeplink_page_tv"
 "servustv://channels";"stv_deeplink_page_channels"
 "servustv://programm";"stv_deeplink_page_programm"
