@@ -38,10 +38,10 @@
 "servustv://show/AA-1WTKXBXJN1W11";"stv_deeplink_show_page"
 "servustv://video/AA-24BTA1MM51W12";"stv_deeplink_show_video"
 
-# Ski Classics (Expires 12/21)
-"servustv://event/AA681PQHC6USSSQ8F3ZT";"stv_deeplink_event_series"
-"servustv://event/AAI4F8SF2YE69C1JB0CE";"stv_deeplink_event_stop"
-"servustv://video/AASXXSHCJ540IKTTC4SJ";"stv_deeplink_event_live"
+# Formel E: Mexico City (Expires 01/26)
+"servustv://event/AA8RU7M6IEH8KA9R51LG";"stv_deeplink_event_series"
+"servustv://event/AA8GUDVZPT5RN731F0L6";"stv_deeplink_event_stop"
+"servustv://video/AAXAG6W0NMT5C1FQVYVA";"stv_deeplink_event_live"
 
 # System Page
 "servustv://discover";"stv_deeplink_page_discover"
