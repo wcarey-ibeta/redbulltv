@@ -63,3 +63,13 @@
 # event - Stop 11 - Concepción, Chile
 "rallytvdebug://event/ff59c4dd-0664-57a4-86d6-e9be2d8070b4"; "rtv_deeplink_event_stop"
 "rallytvdebug://video/c757ff67-e5ac-5f1b-be00-a20b9c25b0bd"; "rtv_deeplink_event_clip"
+
+# System Page
+"rallytvdebug://discover";"rtv_deeplink_page_discover"
+"rallytvdebug://home";"rtv_deeplink_page_home"
+"rallytvdebug://calendar";"rtv_deeplink_page_calendar"
+"rallytvdebug://live-events";"rtv_deeplink_page_live-events"
+"rallytvdebug://tv";"rtv_deeplink_page_tv"
+"rallytvdebug://channels";"rtv_deeplink_page_channels"
+"rallytvdebug://account";"rtv_deeplink_page_account"
+"rallytvdebug://search";"rtv_deeplink_page_search"
