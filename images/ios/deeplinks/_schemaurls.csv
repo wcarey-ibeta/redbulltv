@@ -64,9 +64,12 @@
 "servustv://suche";"stv_deeplink_page_suche"
 
 # rallytv
-# event - Stop 11 - Concepción, Chile
-"rallytvdebug://event/ff59c4dd-0664-57a4-86d6-e9be2d8070b4"; "rtv_deeplink_event_stop"
-"rallytvdebug://video/c757ff67-e5ac-5f1b-be00-a20b9c25b0bd"; "rtv_deeplink_event_clip"
+# event - FIA World Rally Championship Series // WRC Sweden 2025
+"rallytvdebug://page/6a1ea36d-2e21-571c-867a-e856ded1a566"; "rtv_deeplink_wrc_series"
+"rallytvdebug://page/5ecc3a7e-9a73-4bf4-8258-087599dcd1a6"; "rtv_deeplink_event_stop"
+"rallytvdebug://video/06f89ac4-3b59-404c-b08c-ea7d965ca192"; "rtv_deepling_lockedcontent_schedulecard"
+"rallytvdebug://video/c859c242-6fbe-57ca-ba61-ca35842fe780"; "rtv_deeplink_event_clip"
+
 
 # System Page
 "rallytvdebug://discover";"rtv_deeplink_page_discover"
