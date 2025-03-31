@@ -67,7 +67,7 @@
 # event - FIA World Rally Championship Series // WRC Sweden 2025
 "rallytvdebug://page/6a1ea36d-2e21-571c-867a-e856ded1a566"; "rtv_deeplink_wrc_series"
 "rallytvdebug://page/5ecc3a7e-9a73-4bf4-8258-087599dcd1a6"; "rtv_deeplink_event_stop"
-"rallytvdebug://video/06f89ac4-3b59-404c-b08c-ea7d965ca192"; "rtv_deepling_lockedcontent_schedulecard"
+"rallytvdebug://video/06f89ac4-3b59-404c-b08c-ea7d965ca192"; "rtv_deeplink_lockedcontent_schedulecard"
 "rallytvdebug://video/c859c242-6fbe-57ca-ba61-ca35842fe780"; "rtv_deeplink_event_clip"
 
 
