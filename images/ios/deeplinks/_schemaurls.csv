@@ -38,14 +38,13 @@
 "servustv://show/AA-1WTKXBXJN1W11";"stv_deeplink_show_page"
 "servustv://video/AA-24BTA1MM51W12";"stv_deeplink_show_video"
 
-# MotoGP - Formel 1: GP von China  (04/01)
+# #### Formel 1 - Gulf Air Grand Prix von Bahrain  (04/20)
 "servustvdebug://event/AA-25HKBV8C52111";"stv_deeplink_event_series"
-"servustvdebug://event/AABYTRKTPQ9D90XTGGE6";"stv_deeplink_event_stop"
-"servustvdebug://video/AAM0Z8VRF717ZUMTGC18";"stv_deeplink_event_live"
+"servustvdebug://event/AAWK4KE4Q1PCYQKMJ8RM";"stv_deeplink_event_stop"
+"servustvdebug://video/AABXX3K1LHYTRV5KQFU0";"stv_deeplink_event_live"
 
-# Entitled Event
-"servustvdebug://video/AAUVTK6KQHTBWQ1FVWFU";"stv_deeplink_lockedcontent_live"
-"servustvdebug://video/AAF4I5L4H39U28KPYF2L";"stv_deeplink_lockedcontent_replay"
+# Entitled Event - Formel E - Miami E-Prix  (07/31)
+"servustvdebug://video/AA03HFVRGZLRGES9M67X";"stv_deeplink_lockedcontent_live"
 
 # System Page
 "servustv://discover";"stv_deeplink_page_discover"
