@@ -29,10 +29,10 @@
 "redbulltv://search";"rbtv_deeplink_page_search"
 
 # ServusTV
-# Film - Trost und Rath
-"servustv://film/page:AAHZMQL90ZH5R9BM5V4B";"stv_deeplink_film_page"
-"servustv://film/AA6FWNS13AQTL7J9KMRQ";"stv_deeplink_film_video"
-"servustv://video/AA6FWNS13AQTL7J9KMRQ";"stv_deeplink_film_video"
+# Film - Letzte Bootsfahrt
+"servustv://film/page:AA-289YG9AWW1W11";"stv_deeplink_film_page"
+"servustv://film/AA-289YG9AWW1W11";"stv_deeplink_film_video"
+"servustv://video/AA-289DQ4X112111";"stv_deeplink_film_video"
 
 # Show - Meiberger
 "servustv://show/AA-1WTKXBXJN1W11";"stv_deeplink_show_page"
