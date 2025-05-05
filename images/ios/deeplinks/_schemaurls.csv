@@ -38,13 +38,13 @@
 "servustv://show/AA-1WTKXBXJN1W11";"stv_deeplink_show_page"
 "servustv://video/AA-24BTA1MM51W12";"stv_deeplink_show_video"
 
-# Formel 1 - Crypto.com Grand Prix von Miami  (04/20)
+# Formel 1 - GP von Monoco  (06/01)
 "servustvdebug://event/AA-25HKBV8C52111";"stv_deeplink_event_series"
-"servustvdebug://event/AAHHEQKC3QG8KBYS4CB2";"stv_deeplink_event_stop"
-"servustvdebug://video/AAC6I3HCXSWY75C4ERC9";"stv_deeplink_event_live"
+"servustvdebug://event/AAXLZYGSW9BRF8G9F6X7";"stv_deeplink_event_stop"
+"servustvdebug://video/AAU1CTU2VW9PHJAA9YLI";"stv_deeplink_event_live"
 
-# Entitled Event - Formel E - Miami E-Prix  (07/31)
-"servustvdebug://video/AA03HFVRGZLRGES9M67X";"stv_deeplink_lockedcontent_live"
+# Entitled Event - Rallye Portugal  (06/01)
+"servustvdebug://video/AAVPUE1KDH5SJKK8HVJ2";"stv_deeplink_lockedcontent_live"
 
 # System Page
 "servustv://discover";"stv_deeplink_page_discover"
