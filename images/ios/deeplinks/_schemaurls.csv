@@ -73,10 +73,7 @@
 # System Page
 "rallytvdebug://discover";"rtv_deeplink_page_discover"
 "rallytvdebug://home";"rtv_deeplink_page_home"
-"rallytvdebug://calendar";"rtv_deeplink_page_calendar"
-"rallytvdebug://live-events";"rtv_deeplink_page_live-events"
-"rallytvdebug://tv";"rtv_deeplink_page_tv"
-"rallytvdebug://channels";"rtv_deeplink_page_channels"
+"rallytvdebug://events";"rtv_deeplink_page_events"
 "rallytvdebug://account";"rtv_deeplink_page_account"
 "rallytvdebug://search";"rtv_deeplink_page_search"
 "rallytvdebug://onboards";"rtv_deeplink_page_onboards"
